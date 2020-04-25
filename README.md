@@ -35,6 +35,10 @@ GBZ35 Remix is optimized for the RG350 with resolutions up to 320x240.
 
 **Changelog**
 ---
+* **Apr 25, 2020 - Revision 6**
+  * Added section & system images for "images" section
+  * Added favorite indicator images
+  * Added lines to theme.ini for alternate images
 * **Apr 24, 2020 - Revision 5**
   * Added additional sections
   * Reworked system images
