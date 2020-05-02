@@ -9,10 +9,6 @@ GBZ35 Remix theme for [SimpleMenu](https://github.com/fgl82/simplemenu)
 ![screenshot016](https://user-images.githubusercontent.com/14294487/80256292-23846a00-8644-11ea-96dd-3f1ee23838e7.png) ![screenshot018](https://user-images.githubusercontent.com/14294487/80256293-241d0080-8644-11ea-8113-b15b70ce3c65.png)
 ![screenshot019](https://user-images.githubusercontent.com/14294487/80256294-241d0080-8644-11ea-9b82-fd5823c1aecf.png) ![screenshot013](https://user-images.githubusercontent.com/14294487/80256350-3ac35780-8644-11ea-8221-edb8cc5d4068.png)
 
-#### Fullscreen Preview
-
-![screenshot012](https://user-images.githubusercontent.com/14294487/80255838-5a0db500-8643-11ea-9482-7be641792332.png) ![screenshot015](https://user-images.githubusercontent.com/14294487/80256054-b5d83e00-8643-11ea-92ec-3419fe3cfd63.png)
-
 #### Sections
 
 ![logo](https://user-images.githubusercontent.com/14294487/80256603-9beb2b00-8644-11ea-99c9-6995a66afc53.png) ![logo](https://user-images.githubusercontent.com/14294487/80256613-9f7eb200-8644-11ea-8f41-8473b00e6cff.png)
@@ -35,24 +31,28 @@ GBZ35 Remix is optimized for the RG350 with resolutions up to 320x240.
 
 **Changelog**
 ---
-* **Apr 25, 2020 - Revision 6**
+* **May 2, 2020 - [Revision 7](https://github.com/westoncampbell/sm-theme-gbz35-remix/releases/tag/7)**
+  * Updated theme to be compatible with changes introduced by SimpleMenu 5.6
+  * Changed favorite icons
+  * Fullscreen "footer" moved to top of screen
+* **Apr 25, 2020 - [Revision 6](https://github.com/westoncampbell/sm-theme-gbz35-remix/releases/tag/6)**
   * Added section & system images for "images" section
   * Added favorite indicator images
   * Added lines to theme.ini for alternate images
-* **Apr 24, 2020 - Revision 5**
+* **Apr 24, 2020 - [Revision 5](https://github.com/westoncampbell/sm-theme-gbz35-remix/releases/tag/5)**
   * Added additional sections
   * Reworked system images
   * Tweaked section colors
-* **Apr 14, 2020 - Revision 4**
+* **Apr 14, 2020 - [Revision 4](https://github.com/westoncampbell/sm-theme-gbz35-remix/releases/tag/4)**
   * Added system images for traditional layout
-* **Apr 11, 2020 - Revision 3**
+* **Apr 11, 2020 - [Revision 3](https://github.com/westoncampbell/sm-theme-gbz35-remix/releases/tag/3)**
   * Added Vectrex, ScummVM, Pokemini, & MSX2
   * Added custom images for usb & simpleback
   * Compressed PNG images to reduce filesize
-* **Apr 9, 2020 - Revision 2**
+* **Apr 9, 2020 - [Revision 2](https://github.com/westoncampbell/sm-theme-gbz35-remix/releases/tag/2)**
   * Tweaked fullscreen background image
   * Added Famicom, Famicom Disk System, Super Famicom, Satellaview, Sufami Turbo, SG-1000, Mega Drive, & SuperGrafx
-* **Apr 9, 2020 - Revision 1**
+* **Apr 9, 2020 - [Revision 1](https://github.com/westoncampbell/sm-theme-gbz35-remix/releases/tag/1)**
   * Initial release
-* **Apr 9, 2020 - Revision 0**
+* **Apr 9, 2020 - [Revision 0](https://github.com/westoncampbell/sm-theme-gbz35-remix/releases/tag/0)**
   * Uploaded pre-release for archival purposes -- Theme is incomplete
